@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+tqdm
+scikit-learn
+catboost
+lightgbm
+joblib
